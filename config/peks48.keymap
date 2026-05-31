@@ -6,6 +6,7 @@
 
 // Conversion definition for using Japanese keyboard with OS settings
 
+#define MASTER_LEFT
 #define JP_DQUOTE       AT                // "
 #define JP_AMPERSAND    CARET             // &
 #define JP_QUOTE        AMPERSAND         // '
